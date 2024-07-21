@@ -1,7 +1,7 @@
 {
   "name": "nestjs-openai-gpt4o-tavily",
   "version": "0.01",
-  "description": "This project integrates OpenAI's GPT-4 model with Tavily API to create a finance assistant.",
+  "description": "This project integrates OpenAI's GPT-4o model with Tavily API to create a finance assistant.",
   "author": "lbeatu",
   "private": true,
   "license": "MIT",
